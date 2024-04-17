@@ -1,0 +1,42 @@
+.container {
+    text-align: center;
+    margin: 50px;
+}
+
+.container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.container p {
+    margin-bottom: 15px;
+}
+
+.container form {
+    margin-top: 20px;
+}
+
+.container label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.container select {
+    width: 20%;
+    padding: 8px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+.container button {
+    padding: 10px 15px;
+    background-color: #078f5be1;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.container button:hover {
+    background-color: #078f5be1;
+}
