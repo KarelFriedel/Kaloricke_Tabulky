@@ -155,7 +155,9 @@ function pridejAktivituACviceni($nazevAktivity, $spaleneKalorie, $datum)
         <input type="number" id="vlaknina" name="vlaknina">
         <button type="submit" class="form-submit-button">Přidat potravinu</button>
     </form>
+
 </div>
 
+<a  href='main.php'> <button  class="">Přejít na hlavní stránku</button></a>
 </body>
 </html>

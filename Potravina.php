@@ -120,7 +120,10 @@ $conn = null;
             <label for="vlaknina">Vláknina (g):</label><br>
             <input type="number" id="vlaknina" name="vlaknina" min="0"><br><br>
             <button type="submit">Přidat potravinu</button>
+           
         </form>
+        <a  href='main.php'> <button  class="">Přejít na hlavní stránku</button></a>
     </div>
 </body>
+
 </html>

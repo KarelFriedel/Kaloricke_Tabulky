@@ -144,6 +144,7 @@ $conn->close();
         <form action="UpravaR.php" method="get">
             <input type="submit" value="Upravit recepty">
         </form>
+        <a  href='main.php'> <button  class="">Přejít na hlavní stránku</button></a>
     </div>
 
     <script>

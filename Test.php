@@ -131,4 +131,5 @@ $conn->close();
     ?>
 </div>
 </body>
+<a  href='main.php'> <button >Přejít na hlavní stránku</button></a>
 </html>
